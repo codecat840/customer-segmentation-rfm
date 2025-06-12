@@ -41,6 +41,6 @@ Steps performed
     Task 1 – Data Analysis Role
     Company: indolike
 
-🔗 Author
+🔗 Author -
     Purabi Banerjee
     LinkedIn Profile - https://www.linkedin.com/in/purabi-banerjee-784929351
